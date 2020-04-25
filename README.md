@@ -26,8 +26,6 @@ Postman:<br>
 Incluir en el header: Authorization: Basic [**usuario**]:[**password**]<br>
 ** Aplicación encripta usuario y password con Base64
 
-Browser<br>
-
 Aplicación NO encripta usuario y password con Base64, por lo tanto se puede encriptar en:<br>
 https://www.base64decode.org/<br>
 Se debe encriptar "[**usuario**]:[**password**]"  
